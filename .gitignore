@@ -1,0 +1,20 @@
+# Report output
+ai_product_intelligence_report.pdf
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
